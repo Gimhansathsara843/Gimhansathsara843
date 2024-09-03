@@ -47,10 +47,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gimhan sathara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gimhan sathara" height="50" width="50" /></a>
-<a href="https://fb.com/m gimhan sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m gimhan sathsara" height="50" width="50" /></a>
-<a href="https://instagram.com/mgimhansathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgimhansathsara" height="50" width="50" /></a>
-<a href="https://www.youtube.com/c/anima 3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anima 3d" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/gimhan-sathsara-745ba8312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp%2FjKH3jrQ4m2d3wvgUTD1w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gimhan sathara" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100091668394919&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m gimhan sathsara" height="50" width="50" /></a>
+<a href="https://www.instagram.com/mgimhansathsara?igsh=MWZ0YnVyMWt6eHA5bQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgimhansathsara" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@ANIMA_3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anima 3d" height="50" width="50" /></a>
 </p>
 
 ---
