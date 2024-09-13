@@ -23,7 +23,6 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 👨‍💻 All of my projects are available at [gggggggg](gggggggg)
 
 - 💬 Ask me about **Flutter , Springboot**
 
